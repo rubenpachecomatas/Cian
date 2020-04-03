@@ -27,4 +27,20 @@ Cian DB  - [Aquí no]()
 📚 ¿Bibliografía?
 
   - [AngularFire](https://github.com/angular/angularfire) 🔥
+ 
+# Viernes 03-04
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - Un SideMenu para la app SÚPER guay (En un componente aparte).
+
+  - Página de Perfil, aunque por ahora solo muestra tu información de usuario.
+
+  - Imágenes de perfil predeterminadas en base al nombre (creo que hay hasta 5000 posibilidades, se supone que tienen que ser adorables pero algunas dan un poco de miedo) para cada usuario.
+
+  - Base de datos PostgreSQL creada con pgAdmin, aunque aún faltan por crear bastantes tablas.
+  
+📚 ¿Bibliografía?
+
+  - [AngularFire](https://github.com/angular/angularfire) 🔥
   
