@@ -50,7 +50,7 @@ Cian DB  - [Aquí](https://github.com/rubenpachecomatas/Cian-DB)
 
 ✨ Cosas en las que he perdido el tiempo.
 
-  - He remodelado las páginas Welcome, Login, Register, Home (Aún sin terminar) y Profile (Le queda poquito), además de todos los componentes (dialogs, menus...)
+  - He remodelado las páginas Welcome, Login, Register, Home (Aún sin terminar) y Profile (Le queda poquito), además de todos los componentes (dialogs, menus...).
 
   - Cambios en el sistema de navegación. Básicamente ahora hay una barra de tabs, el sidemenu solo se usa en una página.
 
