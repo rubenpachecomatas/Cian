@@ -46,3 +46,16 @@ Cian DB  - [Aquí](https://github.com/rubenpachecomatas/Cian-DB)
 
   - [AngularFire](https://github.com/angular/angularfire) 🔥
   
+# Viernes 17-04
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - He remodelado las páginas Welcome, Login, Register, Home (Aún sin terminar) y Profile (Le queda poquito), además de todos los componentes (dialogs, menus...)
+
+  - Cambios en el sistema de navegación. Básicamente ahora hay una barra de tabs, el sidemenu solo se usa en una página.
+
+  - Creación del Backend con express. No tiene mucho, solo lo he conectado a la base de datos y he hecho un par de llamadas de prueba, parece que tira.
+  
+📚 ¿Bibliografía?
+
+  - [Express](https://expressjs.com/) :running:
