@@ -75,4 +75,4 @@ Para esta semana no hay mucho.
   
 📚 ¿Bibliografía?
 
-  - Nada en especial, solo stackoverflow y algunos de mis proyectos anteriores para las dudas.
+  - Nada en especial, solo stackoverflow y algunos de mis proyectos anteriores para las dudas. 🤠
