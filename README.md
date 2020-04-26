@@ -59,3 +59,20 @@ Cian DB  - [Aquí](https://github.com/rubenpachecomatas/Cian-DB)
 📚 ¿Bibliografía?
 
   - [Express](https://expressjs.com/) :running:
+  
+# Domingo 26-04
+
+Para esta semana no hay mucho.
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - Bug que congelaba la app al usar el menu lateral que usa la página de perfil arreglado.
+
+  - Un par de tablas creadas en la base de datos, más información en el respectivo repositorio.
+
+  - Servicio para las llamadas al back en ionic, ya estaría todo conectado aunque estoy teniendo algunos problemas tontos. **De los que te quitan las ganas de existir**.
+  
+  
+📚 ¿Bibliografía?
+
+  - Nada en especial, solo stackoverflow y algunos de mis proyectos anteriores para las dudas.
