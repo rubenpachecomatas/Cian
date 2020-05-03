@@ -76,3 +76,27 @@ Para esta semana no hay mucho.
 📚 ¿Bibliografía?
 
   - Nada en especial, solo stackoverflow y algunos de mis proyectos anteriores para las dudas. 🤠
+  
+# Domingo 03-05
+
+Más rediseño que otra cosa.
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - El diseño de la página de home está cerquita de estar terminado, y digo cerquita porque conociéndome habrá cosas que cambie y vuelva a cambiar. Está quedando bien chulo.
+
+  - Página para añadir nuevas publicaciones.
+
+  - Componente para añadir tags a la publicación, un popover con una barra de búsqueda.
+  
+  - Pipe para filtrar tags.
+  
+  - Transiciones entre Home y New-post.
+  
+  - Cambios menores en el estilo del sidemenu usado en el perfil.
+  
+  - Ahora el perfil muestra los datos del usuario almacenados en Posgre.
+  
+📚 ¿Bibliografía?
+
+  - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
