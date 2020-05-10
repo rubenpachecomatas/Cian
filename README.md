@@ -3,6 +3,8 @@ Proyecto Final, DAM.
 
 [Vídeo Explicativo 19-03-2020](https://youtu.be/zaqWnU6Uq5k)
 
+Tanto la APK como el vídeo explicativo checkpoint (10-05-2020) están en el repositorio de la propia [app](https://github.com/rubenpachecomatas/Cian-App).
+
 Cian App - [Aquí](https://github.com/rubenpachecomatas/Cian-App)
 
 Cian Web - [Aquí no]()
