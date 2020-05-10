@@ -102,3 +102,21 @@ Más rediseño que otra cosa.
 📚 ¿Bibliografía?
 
   - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
+  
+# Domingo 10-05
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - Llamadas del backend para añadir tanta las nuevas publicaciones como sus respectivos posts.
+
+  - Control de errores en registro y creación de publicaciones.
+
+  - Últimas 10 publicaciones en la página principal.
+  
+  - Página que va cargando todas las publicaciones de una categoría por un scroll infinito.
+  
+  - Base de datos rediseñada.
+  
+📚 ¿Bibliografía?
+
+  - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
