@@ -120,3 +120,17 @@ Más rediseño que otra cosa.
 📚 ¿Bibliografía?
 
   - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
+
+# Domingo 17-05
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - Publicaciones del usuario en el perfil.
+  
+  - Layout de la página para modificar datos de tu cuenta.
+  
+  - Avance en el layout de la página de detalles de una publicación.
+  
+📚 ¿Bibliografía?
+
+  - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
