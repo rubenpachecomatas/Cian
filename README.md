@@ -134,3 +134,22 @@ Más rediseño que otra cosa.
 📚 ¿Bibliografía?
 
   - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
+  
+# Domingo 24-05
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - Filtro por categorías en Home.
+  
+  - Ahora se puede cambiar el nombre, la contraseña y borrar la cuenta desde la página de Settings.
+  
+  - En Home se cargan varias publicaciones de las categorías más usadas haciendo uso del scroll.
+  
+  - La página de detalles permite al autor borrar la publicación.
+  
+  - Cambios en el sistema de navegación.
+  
+📚 ¿Bibliografía?
+
+  - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
+
