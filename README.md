@@ -152,4 +152,36 @@ Más rediseño que otra cosa.
 📚 ¿Bibliografía?
 
   - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
+  
+# Domingo 31-05
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - Editar publicaciones.
+  
+  - Ahora se pueden comentar las publicaciones, teniendo esos comentarios varias opciones como aprobar (si eres el autor del post), borrarlo o visitar el perfil de la persona que lo comentó.
+  
+  - Página de perfil completamente remodelada, ha quedado super chula.
+  
+  - Página para visitar otros perfiles.
+  
+  - Botón flotante que se oculta o se muestra dependiendo de en que dirección estés scrolleando para las páginas de post-details y visitor-profile, teniendo las opciones de dar me gusta (o quitarlo en caso de haberlo dado), mostrar la lista de personas que han dado me gusta, seguir a la persona (o dejarla de seguir) y volver a la pantalla principal.
+  
+  - Y, como pone arriba, ahora se puede dar me gusta a las publicaciones y seguir a otros usuarios.
+  
+  - Página para mostrar listas de usuarios (se usa para seguidos, seguidores y me gustas).
+  
+  - Categoría Trending funcional (En función de los me gusta en un periodo de tiempo).
+  
+  - Todas las llamadas al back-end que implica todo eso, que no son pocas.
+  
+  - Todas las tablas de la base de datos que implica eso, que no son tantas.
+  
+  - Paleta de colores actualizada, haciendo justicia al nombre.
+  
+📚 ¿Bibliografía?
+
+  - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
+
+
 
