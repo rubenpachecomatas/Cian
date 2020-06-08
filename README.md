@@ -183,5 +183,24 @@ Más rediseño que otra cosa.
 
   - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
 
+# Domingo 08-06
+
+✨ Cosas en las que he perdido el tiempo.
+
+  - Traducción Inglés-Español.
+  
+  - Página de notificaciones.
+  
+  - Página de la biblioteca (Publicaciones favoritas).
+  
+  - Página de Información / Créditos.
+  
+  - Categoría Siguiendo (Muestra las publicaciones de la gente a la que sigues).
+ 
+  - Ícono y Splash de la app.
+  
+📚 ¿Bibliografía?
+
+  - Podría decir la documentación de Ionic, pero supongo que se da por hecho. Por si [acaso](https://ionicframework.com/docs/). 💝
 
 
