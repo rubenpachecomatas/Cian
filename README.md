@@ -1,20 +1,158 @@
-# Cian
-Proyecto Final, DAM.
+<p align="center">
+  <img src="https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/saturncian.png" width="150">
+</p>
+
+<h1 align="center">CIAN</h1>
+<h4 align="center">Creativity in a Nutshell</h4>
+<br>
+
+## Índice
+
+  - ¿Qué es Cian?
+  - ¿Cómo funciona?
+  - Cian App
+  - Cian Back
+  - Cian Web
+  - Cian Database
+  - Diario de desarollo
+  
+<br>
+
+## ¿Qué es Cian?
+
+Cian es una red social enfocada en fomentar la creatividad de los usuarios. O, al menos, esa fue la idea con la que nació. Porque Cian no busca traer algo nuevo y novedoso, solo prestarle la atención que se merece a algo muy importante y que tendemos a encerrar en nosotros mismos. Cian te proporciona un espacio donde compartir tus ideas en busca de esa ayuda extra que se necesita para desarrollarlas. Ya seas un estudiante como yo al que no se le ocurría que podría hacer con su proyecto final, un escritor que es incapaz de ver más haya de sus palabras, o simplemente una persona que está cansada de rendirse por miedo a que sus ocurrencias solo sean buenas para él, Cian podría ser eso que necesitabas y aún lo sabías. O no. Pero no hablamos de esas veces.
+
+<br>
+
+## ¿Cómo funciona?
+
+### Welcome
+
+Esta es la primera página que nos encontramos al entrar a la app. Te permite navegar a las páginas de Login y Register o cambiar el idioma predeterminado.
+
+![welcome](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/welcome_page.png)
+![welcome-lang](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/welcome_page_language.png)
+
+### Login and Register
+
+No tienen mucho misterio. Introduce email y contraseña para iniciar sesión o registrarte.
+
+![login](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/login_page.png)
+![register](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/register_page.png)
+
+### Recover
+
+En la página de login teníamos la opción de recuperar nuestra contraseña en caso de perdida. Metes tu email y te llegará un correo de recuperación.
+
+![recover](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/recover_page.png)
+
+### Home
+
+El corazón de la app. Nos encontramos unos cuantos scrolls horizontales de diferentes categorías, cargando hasta 8 posts de cada una (en caso de querer ver más pulsaríamos el botón al final de cada scroll para navegar a la página de posts (explicada más abajo). Podemos ver las últimas publicaciones, las más gustadas de la semana, las publicaciones de los usuarios a los que seguimos, y, si seguimos bajando, cargará poco a poco más categorías en función de lo usadas que sean. También tenemos un botón de una lupa con una tag en la esquina superior derecha. Al pulsarlo abrirá un popover con el componente Filter Tags, que nos permitirá buscar una categoría en concreto. En la parte inferior tenemos una barra de tabs que nos permitirá navegar a las páginas de notificaciones, chats, biblioteca, perfil y crear una nueva publicación.
+
+![home](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/home_page.png)
+
+### New Post
+
+Es sencillo. Intruduce el título, la descripción y asígnale categorías. Ya tienes tu nuevo post.
+
+![new-post](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/new_post_page.png)
+
+### Profile and Visitor Profile
+
+Dos páginas muy parecidas pero con sutiles diferencias. En ambas encontraremos las publicaciones del usuario, el número de seguidores, seguidos y likes que ha dado, además de la foto y el nombre. En cambio, en nuestro perfil el botón que aparece en la esquina superior derecha servirá para desplegar un menú del que hablaremos más adelante. En la página de visitante tendremos un icono que nos llevará a la página de chat para, pues eso, hablar con el usuario. Además en la parte inferior tendremos un botón flotante que desaparecerá al bajar y aparecerá a subir haciendo uso del scroll. En el tendremos las opciones de seguir/dejar de seguir al usuario y volver a casa. Por cierto, las imágenes de perfil son generadas a través de una api externa, en base al nombre. Y están bien chulas.
+
+![profile](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/profile_page.png)
+![visitor-profile](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/visitor_profile_page.png)
+
+### Post Details
+
+En Post Details tendremos la vista de una publicación, con el título, descripción y categorías que le hayamos dado. Si eres el autor además encontrarás dos botones, uno de ellos para modificar y otro para borrar. Debajo tendremos la sección de comentarios, donde podremos dejar ideas u opiniones que el creador de la publicación podrá descartar (borrar) o aprobar (resaltar). Cada comentario además nos dejará navegar al perfil de su creador. Y, también en la parte de abajo, volvemos a contar con un botón flotante de comportamiento similar al de las páginas de perfil, solo que este nos dejará ver el número de likes (y una lista con los respectivos usuarios pulsándolo), y en vez de seguir tendremos la opción de dejar o quitar nuestro propio like.
+
+![post-details](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/post_details_page.png)
+![comments-options](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/comments_options.png)
+
+### Chats and Chat
+
+En la página de chats nos encontraremos una lista de tarjetas correspondientes a conversaciones que ya hayamos entablado. Podremos ver la imagen de perfil del usuario, el nombre, el último mensaje (que saldrá en azul en caso de no haberlo leído) y cuanto hace que fue mandado. Entrando en la página de uno de los chats nos encontraremos la lista de mensajes (los nuestros a la derecha y los de la persona con la que estemos hablando a la izquierda), cada uno con la hora a la que fue mandado. En el caso de nuestros mensajes también podremos ver un doble check en caso de que la otra persona lo hubiese leído.
+
+![chats](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/chats_page.png)
+![chat](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/chat_page.png)
+
+### Notifications
+
+Cada vez que alguien nos siga, comente una de nuestras publicaciones o le de like, se añadirá una notificación a nuestra lista, estando ordenadas por fecha. Si abriesemos una de ellas pasaría a verse más transparente para indicar que la hemos visto.
+
+![notification](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/notifications_page.png)
+
+### Library
+
+En este momento solo muestra tus publicaciones favoritas (Aquellas a las que has dado like), pero en un futuro me gustaría implementar el crear tus propias colecciones de publicaciones.
+
+![library](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/library_page.png)
+
+### User List
+
+La lista de usuarios es usada para mostrar las personas que te siguen, a las que sigues o las que han dado like a una publicación. También puedes ver quien sigue y a quien sigue otro usuario. Si pulsas en una de las tarjetas te llevará a su perfil.
+
+![library](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/user_list_page.png)
+
+### Posts
+
+Tiene un funcionamiento similar a la lista de usuarios. Carga las publicaciones de una categoría, no todas de golpe claro, de 8 en 8 según el usuario baja haciendo uso del scroll.
+
+![library](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/posts_page.png)
+
+### Menu
+
+Menu con opciones de usuario e información al que accederemos desde nuestro perfil (Botón esquina derecha). Nos permitirá cerrar nuestra sesión, cambiar el idioma predeterminado y acceder a las páginas que se explican a continuación.
+
+![menu](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/menu_component.png)
+
+### Account Settings
+
+Nos permite modificar tanto nuestro nombre (inicialmente sacado del email) como nuestra contraseña, así como borrar la cuenta permanentemente.
+
+![settings](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/settings_page.png)
+
+### About
+
+Página de información con enlaces a mi perfil de github y linkedn, además de una lista con las atribuciones de todas las ilustraciones, iconos y demás usados en la app que no me pertenecen.
+
+![about](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/about_page.png)
+![attributions](https://github.com/rubenpachecomatas/Cian/blob/master/ASSETS/attributions_about_page.png)
+
+<br>
+
+## Cian App
+
+Repositorio de la aplicación, hecha en Ionic 5. Contiene la APK. - [Aquí](https://github.com/rubenpachecomatas/Cian-App)
+
+<br>
+
+## Cian Web
+
+Repositorio de la landing page, hecha para el módulo Desarrollo de interfaces. Todo lo que se necesita saber está dentro. - [Aquí](https://github.com/rubenpachecomatas/Cian-Web)
+
+<br>
+
+## Cian Back
+
+Tanto el back como la base de datos están desplegados en Heroku, pero puedes encontrar el código aquí. - [Aquí](https://github.com/rubenpachecomatas/Cian-Back)
+
+<br>
+
+## Cian DB
+
+Cian usa dos bases de datos. Realtime database de Firebase, para las notificaciones, chats e información más personal del usuario, y PosgreSQL, para el resto de cosas básicamente. Cuenta con 7 tablas (Users, Follows, Posts, Posts_Tags, Tags, Comments y Likes), y como he dicho arriba se encuentra desplegada en Heroku. Esto debería cubrir el módulo Sistemas de gestión empresarial. - [Aquí](https://github.com/rubenpachecomatas/Cian-DB)
+
+<br>
+
+# Diario de Desarrollo
 
 [Vídeo Explicativo 19-03-2020](https://youtu.be/zaqWnU6Uq5k)
 
 Tanto la APK como el vídeo explicativo checkpoint (10-05-2020) están en el repositorio de la propia [app](https://github.com/rubenpachecomatas/Cian-App).
-
-Cian App - [Aquí](https://github.com/rubenpachecomatas/Cian-App)
-
-Cian Web - [Aquí](https://github.com/rubenpachecomatas/Cian-Web)
-
-Cian Back - [Aquí](https://github.com/rubenpachecomatas/Cian-Back)
-
-Cian DB  - [Aquí](https://github.com/rubenpachecomatas/Cian-DB)
-
-
-# Diario de Trabajo
 
 # Viernes 27-03
 
