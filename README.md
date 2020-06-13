@@ -20,7 +20,7 @@
 
 ## ¿Qué es Cian?
 
-Cian es una red social enfocada en fomentar la creatividad de los usuarios. O, al menos, esa fue la idea con la que nació. Porque Cian no busca traer algo nuevo y novedoso, solo prestarle la atención que se merece a algo muy importante y que tendemos a encerrar en nosotros mismos. Cian te proporciona un espacio donde compartir tus ideas en busca de esa ayuda extra que se necesita para desarrollarlas. Ya seas un estudiante como yo al que no se le ocurría que podría hacer con su proyecto final, un escritor que es incapaz de ver más allá de sus palabras, o simplemente una persona que está cansada de rendirse por miedo a que sus ocurrencias solo sean buenas para él, Cian podría ser eso que necesitabas y aún lo sabías. O no. Pero no hablamos de esas veces.
+Cian es una red social enfocada en fomentar la creatividad de los usuarios. O, al menos, esa fue la idea con la que nació. Porque Cian no busca traer algo nuevo y novedoso, solo prestarle la atención que se merece a algo muy importante y que tendemos a encerrar en nosotros mismos. Cian te proporciona un espacio donde compartir tus ideas en busca de esa ayuda extra que se necesita para desarrollarlas. Ya seas un estudiante como yo al que no se le ocurría que podría hacer con su proyecto final, un escritor que es incapaz de ver más allá de sus palabras, o simplemente una persona que está cansada de rendirse por miedo a que sus ocurrencias solo sean buenas para él, Cian podría ser eso que necesitabas y aún no lo sabías. O no. Pero no hablamos de esas veces.
 
 [Videotutorial de uso](https://youtu.be/JazWH483ARA)
 
